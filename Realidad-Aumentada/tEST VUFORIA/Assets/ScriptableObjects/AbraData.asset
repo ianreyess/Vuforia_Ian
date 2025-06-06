@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: AbraData
   m_EditorClassIdentifier: 
   musicName: Abra
-  animationName: Meillure
+  animationName: HipHop
   notesConfig: {fileID: 4900000, guid: 16478d19d88721d489728271b059ee27, type: 3}
   speed: 200

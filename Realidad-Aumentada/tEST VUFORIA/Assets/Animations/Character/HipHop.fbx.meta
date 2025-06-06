@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 97345d980ce092c4cbb315c5549401ed
+guid: 7d4c12184d2bf0e469d5978ba42d8c4c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -31,11 +31,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Flair
+      name: HipHop
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0
-      lastFrame: 30
+      lastFrame: 659
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

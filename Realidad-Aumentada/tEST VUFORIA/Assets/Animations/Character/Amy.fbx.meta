@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3424c8266d830814e9fce4dabe14e119
+guid: 97345d980ce092c4cbb315c5549401ed
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -31,11 +31,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Rumba
+      name: Amy
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0
-      lastFrame: 71
+      lastFrame: 30
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: VirusData
   m_EditorClassIdentifier: 
   musicName: Virus
-  animationName: Twerk
+  animationName: Virus
   notesConfig: {fileID: 4900000, guid: 619d64ec8ce16074da6c7b0f6fea86e8, type: 3}
   speed: 200

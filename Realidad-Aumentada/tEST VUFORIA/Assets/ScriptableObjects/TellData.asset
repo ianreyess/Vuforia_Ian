@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: TellData
   m_EditorClassIdentifier: 
   musicName: Tell
-  animationName: Rumba
+  animationName: Tell
   notesConfig: {fileID: 4900000, guid: 9069f8c9c29d4af44819e52d67deaf29, type: 3}
   speed: 200

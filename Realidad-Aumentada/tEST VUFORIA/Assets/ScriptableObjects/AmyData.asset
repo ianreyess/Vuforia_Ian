@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: AmyData
   m_EditorClassIdentifier: 
   musicName: Amy
-  animationName: Flair
+  animationName: Amy
   notesConfig: {fileID: 4900000, guid: bf43cd4185bc65c40a83005ace084d0a, type: 3}
   speed: 200
